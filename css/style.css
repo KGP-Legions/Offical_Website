@@ -127,6 +127,11 @@ html{
     border: 2px solid white;
 }
 
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+
 .btn-sm{
     padding: 7px 20px;
     margin: -1px 11px;
